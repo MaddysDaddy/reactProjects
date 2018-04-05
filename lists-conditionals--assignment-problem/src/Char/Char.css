@@ -1,0 +1,11 @@
+.char-box {
+    height:1.5em;
+    width:1.5em;
+    border: 1px solid #333;
+    padding:1em;
+    line-height: 1.5;
+    margin:1em;
+    display: inline-block;
+    text-align: center;
+    background-color: #eee;
+}
